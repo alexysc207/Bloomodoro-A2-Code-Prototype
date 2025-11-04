@@ -169,7 +169,7 @@ My main inspiration for the Pomodoro timer was:
 
 ### Imported Libraries
 
-*Clark, A., et al. (2023). *Pillow (Python Imaging Library) (Version 10.0.0)* [Computer software]. Python Package Index. https://pypi.org/project/Pillow/ - Used for handling images for the flower growth mechanic.
+* Clark, A., et al. (2023). *Pillow (Python Imaging Library) (Version 10.0.0)* [Computer software]. Python Package Index. https://pypi.org/project/Pillow/ - Used for handling images for the flower growth mechanic.
 * Python Software Foundation. (2023). *Python (Version 3.12)* [Computer software]. https://www.python.org/ - Used as the programming language for the project and provides Tkinter and threading modules.
 * Python Software Foundation. (2023). *Tkinter (Version included with Python 3.12)* [Computer software]. https://docs.python.org/3/library/tkinter.html - Used for building the GUI interface.
 * Python Software Foundation. (2023). *threading (Version included with Python 3.12)* [Computer software]. https://docs.python.org/3/library/threading.html - Used to keep the timer and interface responsive.
