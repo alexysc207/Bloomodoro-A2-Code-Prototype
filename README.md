@@ -68,32 +68,22 @@ git clone https://github.com/alexysc207/Bloomodoro-A2-Code-Prototype.git
 cd Bloomodoro-A2-Code-Prototype/Bloomodoro\ Prototype
 
 2. Install Python 3.10+ if not already installed. Verify with:
-
-bash
-Copy code
 python --version
 
-3. Install required packages:
-
-bash
-Copy code
+3. Install required packages (Tkinter is included with Python):
 pip install pillow
-(Tkinter is included with Python.)
 
 4. Ensure flower images (seed.png, sprout.png, flower.png, bouquet.png) are in the same folder as bloom_odoro.py.
 
 5. Run the application:
-
-bash
-Copy code
 python bloom_odoro.py
 
-### Troubleshooting tips:
+## Troubleshooting Tips:
 GUI doesn’t appear → check Tkinter installation.
 
 Images don’t show → verify file names/paths.
 
-Timer freezes → ensure Pillow is installed and run script from main thread.
+Timer freezes → ensure Pillow is installed and run script from the main thread.
 
 ---
 
