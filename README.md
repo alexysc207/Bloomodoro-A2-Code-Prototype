@@ -136,38 +136,45 @@ Bloomodoro is an application that has endless possibilities. Upon my completion 
 My main inspiration for the Pomodoro timer was:
 * Neural Nine. (2023, October 15). *Python Timer Tutorial* [Video]. YouTube. [https://www.youtube.com/watch?v=FJeXp5yZd-g](https://www.youtube.com/watch?v=FJeXp5yZd-g) — main inspiration for the timer and break button setup
 
-## Learning Resources (APA 7th Edition)
-
 ### Tutorials & Video Guides
 
-* Neural Nine. (2023, October 15). *Python Timer Tutorial* [Video]. YouTube. [https://www.youtube.com/watch?v=FJeXp5yZd-g](https://www.youtube.com/watch?v=FJeXp5yZd-g) — main inspiration for the timer and break button setup
-* Madecraft Speaker. (n.d.). *Python for students*. LinkedIn Learning. [https://www.linkedin.com/learning/python-for-students/](https://www.linkedin.com/learning/python-for-students/) — basics of coding using Python
 * Biswal, A. (2022, July 1). *Add pictures and images to Tkinter application* [Video]. YouTube. [https://youtu.be/pk8714VXBC0](https://youtu.be/pk8714VXBC0) — used for my flower growth mechanic
+* Madecraft Speaker. (n.d.). *Python for students*. LinkedIn Learning. [https://www.linkedin.com/learning/python-for-students/](https://www.linkedin.com/learning/python-for-students/) — basics of coding using Python
 
 ### Tkinter References & GUI Guides
 
-* Real Python. (n.d.). *Displaying clickable buttons with Button widgets*. [https://realpython.com/python-gui-tkinter/#displaying-clickable-buttons-with-button-widgets](https://realpython.com/python-gui-tkinter/#displaying-clickable-buttons-with-button-widgets) — helped with button layout and GUI design
 * Python Software Foundation. (n.d.). *Tkinter concepts*. Python Documentation. [https://docs.python.org/3/library/tkinter.html#important-tk-concepts](https://docs.python.org/3/library/tkinter.html#important-tk-concepts) — referenced core Tkinter concepts
 * Python Tutorial. (n.d.). *Tkinter Labels*. [https://www.pythontutorial.net/tkinter/tkinter-label/](https://www.pythontutorial.net/tkinter/tkinter-label/) — used for setting up labels in the interface
+* Real Python. (n.d.). *Displaying clickable buttons with Button widgets*. [https://realpython.com/python-gui-tkinter/#displaying-clickable-buttons-with-button-widgets](https://realpython.com/python-gui-tkinter/#displaying-clickable-buttons-with-button-widgets) — helped with button layout and GUI design
 
 ### Image Handling & Animations
 
 * GeeksforGeeks. (2024, January 10). *Python Pillow tutorial*. [https://www.geeksforgeeks.org/python/python-pillow-tutorial/](https://www.geeksforgeeks.org/python/python-pillow-tutorial/) — learning Pillow for image handling
 * GeeksforGeeks. (2023, December 5). *Adding images in Tkinter*. [https://www.geeksforgeeks.org/python/how-to-add-an-image-in-tkinter/](https://www.geeksforgeeks.org/python/how-to-add-an-image-in-tkinter/) — implementing flower growth images
-* TutorialsPoint. (n.d.). *Loading images using PIL*. [https://www.tutorialspoint.com/loading-images-in-tkinter-using-pil](https://www.tutorialspoint.com/loading-images-in-tkinter-using-pil) — helped troubleshoot image loading
 * PlainEnglish. (2023, February 20). *Widget animations in Tkinter*. [https://plainenglish.io/blog/guide-to-widget-animations-with-tkinter](https://plainenglish.io/blog/guide-to-widget-animations-with-tkinter) — guided simple animations for visual feedback
 * Python for Beginners. (2025, June 6). *Create animations in Tkinter Python GUI*. [https://www.pythonforbiginners.com/2025/06/create-animations-in-tkinter-python-gui.html](https://www.pythonforbiginners.com/2025/06/create-animations-in-tkinter-python-gui.html) — additional animation techniques
-* Tkinter.com. (n.d.). *Animate widgets tutorial*. [https://tkinter.com/how-to-animate-widgets-python-tkinter-gui-tutorial-164/](https://tkinter.com/how-to-animate-widgets-python-tkinter-gui-tutorial-164/) — extra reference for animating widgets
 * Stack Overflow. (2015, August 15). *How to fade in/out on a Tkinter frame?* [https://stackoverflow.com/questions/27806669/how-to-fade-in-out-on-a-tkinter-frame](https://stackoverflow.com/questions/27806669/how-to-fade-in-out-on-a-tkinter-frame) — used for fade animation ideas
+* Tkinter.com. (n.d.). *Animate widgets tutorial*. [https://tkinter.com/how-to-animate-widgets-python-tkinter-gui-tutorial-164/](https://tkinter.com/how-to-animate-widgets-python-tkinter-gui-tutorial-164/) — extra reference for animating widgets
+* TutorialsPoint. (n.d.). *Loading images using PIL*. [https://www.tutorialspoint.com/loading-images-in-tkinter-using-pil](https://www.tutorialspoint.com/loading-images-in-tkinter-using-pil) — helped troubleshoot image loading
 
 ### Progress Bar References
-
-* Python Software Foundation. (n.d.). *ttk Progressbar*. Python Documentation. [https://docs.python.org/3/library/tkinter.ttk.html#tkinter.ttk.Progressbar](https://docs.python.org/3/library/tkinter.ttk.html#tkinter.ttk.Progressbar) — reference for progress bar setup
-* PythonAssets. (n.d.). *Progress bar in Tkinter*. [https://pythonassets.com/posts/progress-bar-in-tk-tkinter/](https://pythonassets.com/posts/progress-bar-in-tk-tkinter/) — implemented countdown progress visualization
-* Stack Overflow. (2016, January 10). *Tkinter GUI with progress bar example*. [https://stackoverflow.com/questions/33768577/tkinter-gui-with-progress-bar](https://stackoverflow.com/questions/33768577/tkinter-gui-with-progress-bar) — example of updating progress bar
-* PythonGuides. (n.d.). *Tkinter progress bar tutorial*. [https://pythonguides.com/python-tkinter-progress-bar/](https://pythonguides.com/python-tkinter-progress-bar/) — learning bar increments and formatting
-* PythonTutorial.net. (n.d.). *Tkinter Progressbar*. [https://www.python-tutorial.net/tkinter/tkinter-progressbar/](https://www.python-tutorial.net/tkinter/tkinter-progressbar/) — additional reference for progress logic
 * DataCamp. (2020, May 12). *Progress bars in Python*. [https://www.datacamp.com/tutorial/progress-bars-in-python](https://www.datacamp.com/tutorial/progress-bars-in-python) — general reference for progress tracking
+* PythonAssets. (n.d.). *Progress bar in Tkinter*. [https://pythonassets.com/posts/progress-bar-in-tk-tkinter/](https://pythonassets.com/posts/progress-bar-in-tk-tkinter/) — implemented countdown progress visualization
+* PythonGuides. (n.d.). *Tkinter progress bar tutorial*. [https://pythonguides.com/python-tkinter-progress-bar/](https://pythonguides.com/python-tkinter-progress-bar/) — learning bar increments and formatting
+* Python Software Foundation. (n.d.). *ttk Progressbar*. Python Documentation. [https://docs.python.org/3/library/tkinter.ttk.html#tkinter.ttk.Progressbar](https://docs.python.org/3/library/tkinter.ttk.html#tkinter.ttk.Progressbar) — reference for progress bar setup
+* PythonTutorial.net. (n.d.). *Tkinter Progressbar*. [https://www.python-tutorial.net/tkinter/tkinter-progressbar/](https://www.python-tutorial.net/tkinter/tkinter-progressbar/) — additional reference for progress logic
+* Stack Overflow. (2016, January 10). *Tkinter GUI with progress bar example*. [https://stackoverflow.com/questions/33768577/tkinter-gui-with-progress-bar](https://stackoverflow.com/questions/33768577/tkinter-gui-with-progress-bar) — example of updating progress bar
+
+
+
+### Imported Libraries
+
+*Clark, A., et al. (2023). *Pillow (Python Imaging Library) (Version 10.0.0)* [Computer software]. Python Package Index. https://pypi.org/project/Pillow/ - Used for handling images for the flower growth mechanic.
+* Python Software Foundation. (2023). *Python (Version 3.12)* [Computer software]. https://www.python.org/ - Used as the programming language for the project and provides Tkinter and threading modules.
+* Python Software Foundation. (2023). *Tkinter (Version included with Python 3.12)* [Computer software]. https://docs.python.org/3/library/tkinter.html - Used for building the GUI interface.
+* Python Software Foundation. (2023). *threading (Version included with Python 3.12)* [Computer software]. https://docs.python.org/3/library/threading.html - Used to keep the timer and interface responsive.
+* Python Software Foundation. (2023). *time (Version included with Python 3.12)* [Computer software]. https://docs.python.org/3/library/time.html - Used for countdown logic.
+* Python Software Foundation. (2023). *ttk (Version included with Python 3.12)* [Computer software]. https://docs.python.org/3/library/tkinter.ttk.html - Used for styled progress bar integration.
 
 ### Additional Python Guides
 
