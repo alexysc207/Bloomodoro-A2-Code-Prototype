@@ -4,16 +4,16 @@ Bloomodoro is an interactive productivity timer built in **Python** with **Tkint
 Each completed Pomodoro session helps your digital flower bloom — turning focus into growth.
 
 ## Table of Contents
-- [General Information] (#general-information)
-- [Technologies Used] (#technologies-used)
-- [Features] (#features)
-- [Screenshots] (#screenshots)
-- [Setup] (#setup)
-- [Usage] (#usage)
-- [Development Journey] (#development-journey)
-- [Future Improvements] (#future-improvements)
-- [Learning Resources] (#learning-resources)
-- [Author] (#author)
+- [General Information](#general-information)
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Development Journey](#development-journey)
+- [Future Improvements](#future-improvements)
+- [Learning Resources](#learning-resources)
+- [Author](#author)
 
 ---
 
@@ -53,7 +53,7 @@ It uses soft, nature-inspired visuals to cultivate calm focus and a sense of ach
 
 ## Screenshots
 
-![Final Bouquet](screenshot/Final-Bouquet.png)
+![Final Bouquet](screenshot/Final Bouquet.png)
 
 ---
 
