@@ -53,7 +53,7 @@ It uses soft, nature-inspired visuals to cultivate calm focus and a sense of ach
 
 ## Screenshots
 
-![Final Bouquet](screenshot/Final Bouquet.png)
+![Final Bouquet](screenshot/Final-Bouquet.png)
 
 ---
 
