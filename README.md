@@ -133,8 +133,10 @@ Bloomodoro is an application that has endless possibilities. Upon my completion 
 
 ## Learning Resources
 
+My main inspiration for the Pomodoro timer was:
+[Neural Nine – Python Timer Tutorial](https://www.youtube.com/watch?v=FJeXp5yZd-g) — main inspiration for the timer and break button setup  
+
 ### Tutorials & Video Guides
-- [Neural Nine – Python Timer Tutorial](https://www.youtube.com/watch?v=FJeXp5yZd-g) — main inspiration for the timer and break button setup  
 - [Madecraft Speaker – Python for Students](https://www.linkedin.com/learning/python-for-students/) — basics of coding using Python  
 - [Anshuman Biswal – Add Pictures and Images to TKinter Application](https://youtu.be/pk8714VXBC0)  - used for my flower growth mechanic
 
@@ -143,7 +145,7 @@ Bloomodoro is an application that has endless possibilities. Upon my completion 
 - [Python Official Documentation – Tkinter Concepts](https://docs.python.org/3/library/tkinter.html#important-tk-concepts)  
 - [Python Tutorial – Tkinter Labels](https://www.pythontutorial.net/tkinter/tkinter-label/)  
 
-### Image Handling & Animations
+### Image Handling & Animations For Flower Growth Mechanic
 - [GeeksforGeeks – Python Pillow Tutorial](https://www.geeksforgeeks.org/python/python-pillow-tutorial/)  
 - [GeeksforGeeks – Adding Images in Tkinter](https://www.geeksforgeeks.org/python/how-to-add-an-image-in-tkinter/)  
 - [TutorialsPoint – Loading Images Using PIL](https://www.tutorialspoint.com/loading-images-in-tkinter-using-pil)  
@@ -152,7 +154,7 @@ Bloomodoro is an application that has endless possibilities. Upon my completion 
 - [Tkinter.com – Animate Widgets Tutorial](https://tkinter.com/how-to-animate-widgets-python-tkinter-gui-tutorial-164/)  
 - [StackOverflow – Fade In/Out Tkinter Frame](https://stackoverflow.com/questions/27806669/how-to-fade-in-out-on-a-tkinter-frame)  
 
-### Progress Bar References
+### Progress Bar Guides
 - [Python Docs – ttk Progressbar](https://docs.python.org/3/library/tkinter.ttk.html#tkinter.ttk.Progressbar)  
 - [PythonAssets – Progress Bar in Tkinter](https://pythonassets.com/posts/progress-bar-in-tk-tkinter/)  
 - [StackOverflow – Tkinter Progress Bar Example](https://stackoverflow.com/questions/33768577/tkinter-gui-with-progress-bar)  
