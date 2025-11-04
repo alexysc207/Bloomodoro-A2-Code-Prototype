@@ -61,6 +61,27 @@ It uses soft, nature-inspired visuals to cultivate calm focus and a sense of ach
 
 To get Bloomodoro to run locally, follow these steps to ensure success:
 
+1. Clone the repository and navigate to the prototype folder:
+git clone https://github.com/alexysc207/Bloomodoro-A2-Code-Prototype.git
+cd Bloomodoro-A2-Code-Prototype/Bloomodoro Prototype
+
+2. Install Python 3.10+ if not already installed. Verify by running python --version.
+
+3. Install required packages (Tkinter is included with Python):
+pip install pillow
+
+4. Ensure flower images (seed.png, sprout.png, flower.png, bouquet.png) are in the same folder as bloom_odoro.py.
+
+5. Run the application by executing:
+python bloom_odoro.py
+
+Troubleshooting tips:
+
+GUI doesn’t appear → check your Tkinter installation.
+
+Images don’t show → verify file names and paths.
+
+Timer freezes → make sure Pillow is installed and the script is run from the main thread.
 
 
 ---
